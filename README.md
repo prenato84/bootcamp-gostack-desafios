@@ -23,9 +23,6 @@ Desafios da GoStack 11
   </a>
 </p>
 
-<p align="center">
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :rocket: Lista de desafios
 
@@ -33,12 +30,6 @@ Desafios da GoStack 11
 <br>
 📄 **[Desafio 2: ...](#)**
 
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
 
 
 Feito com 💜 by <a href="https://www.linkedin.com/in/prenato84">Paulo Castro</a> :wave:
