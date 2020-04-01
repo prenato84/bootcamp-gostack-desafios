@@ -51,10 +51,10 @@ Ele está dividido em **Cronograma semanal** e **Cronograma diário**.
 ### Cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diário.jpg">
+  <img width="80%" src="./assets/cronograma-diario.jpg">
 </p>
 
-Nessa sessão foi informado horários fixos para me organizar e me basear durante a minha jornada como programador, afinal, a rotina de estudos será meu primeiro passo para conseguir atingir os meus objetivos o mais rápido possível!
+Nessa sessão foram informados horários fixos para me organizar e me basear durante a minha jornada como programador, afinal, a rotina de estudos será meu primeiro passo para conseguir atingir os meus objetivos o mais rápido possível!
 
 ### Cronograma diário
 
@@ -65,6 +65,13 @@ Nessa sessão foi informado horários fixos para me organizar e me basear durant
 Planejamento das minhas tarefas diárias para que consiga me preparar para consumir todo o conteúdo durante a semana.
 
 Nele foram incluídos tarefas, material de mídia (artigos, posts, vídeos), conceitos e qualquer informação útil sobre o que estudar de forma organizada.
+
+Exemplos de tarefas diárias:
+
+<p align="center">
+  <img width="40%" src="./assets/tarefa-diaria-1.jpg">
+  <img width="40%" src="./assets/tarefa-diaria-2.jpg">
+</p>
 
 Dica: foi utilizada a técnica de estudo de Pomodoro, a qual diz para ter pequenas pausas para descansar e assimilar o material estudado (pra casa 25 minutos de estudo, 5 minutos de descanso. Foi reservado também tempo para criação de conteúdos como posts no linkedin e publicação no meu GitHub.
 
