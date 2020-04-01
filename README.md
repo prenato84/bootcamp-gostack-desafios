@@ -46,12 +46,12 @@ Se quiser conferir meu cronograma, acesse o link disponibilizado abaixo, e clica
 
 📄 **[Link do Cronograma entregue](https://www.notion.so/Cronograma-de-estudos-836b82c49b3c40bb9a4b50cc35a27c28)**
 
-Ele está dividido em <strong>Cronograma semanal</strong> e <strong>Cronograma diário</strong>.
+Ele está dividido em **Cronograma semanal** e **Cronograma diário**.
 
 ### Cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="./assets/cronograma-diário.jpg">
 </p>
 
 Nessa sessão foi informado horários fixos para me organizar e me basear durante a minha jornada como programador, afinal, a rotina de estudos será meu primeiro passo para conseguir atingir os meus objetivos o mais rápido possível!
@@ -59,7 +59,7 @@ Nessa sessão foi informado horários fixos para me organizar e me basear durant
 ### Cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/cronograma-semanal.jpg">
 </p>
 
 Planejamento das minhas tarefas diárias para que consiga me preparar para consumir todo o conteúdo durante a semana.
