@@ -1,5 +1,5 @@
-# bootcamp-gostack-desafios
-Desafios da GoStack 11
+# bootcamp-gostack-desafios/desafio-1
+Desafio 1 da GoStack 11
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
@@ -25,7 +25,6 @@ Desafios da GoStack 11
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -37,41 +36,38 @@ Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e rit
 
 Defina qual será seu horário de estudo, criando tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com seus objetivos!
 
-### Modelo de cronograma
+### Cronograma de estudos
 
-Para te ajudar nesse desafio, criamos para você um modelo que você pode duplicar através da plataforma Notion.
+Foi duplicado um modelo de cronograma criado pela Rocketseat e disponibilizado em [modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070).
 
-O Notion funciona tanto em plataformas mobile, tanto em plataformas desktop, e ambas podem ser baixadas em sua [página oficial](https://www.notion.so/product).
+Esse modelo foi configurado e incrementado com todo meu planejamento semanal para a 1ª semana do GoStack 11.
 
-Para começar a utilizar o modelo, você deve acessar o link disponibilizado abaixo, e clicar no botão "Duplicate" que fica no menu do canto superior direito da tela. 
+Se quiser conferir meu cronograma, acesse o link disponibilizado abaixo, e clicar no botão "Duplicate" que fica no menu do canto superior direito da tela. 
 
-📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
+📄 **[Link do Cronograma entregue](https://www.notion.so/Cronograma-de-estudos-836b82c49b3c40bb9a4b50cc35a27c28)**
 
-### Definindo o cronograma semanal
+Ele está dividido em <strong>Cronograma semanal</strong> e <strong>Cronograma diário</strong>.
+
+### Cronograma semanal
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-diario.png">
 </p>
 
-Nessa sessão você deve informar os horários fixos que você irá se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
+Nessa sessão foi informado horários fixos para me organizar e me basear durante a minha jornada como programador, afinal, a rotina de estudos será meu primeiro passo para conseguir atingir os meus objetivos o mais rápido possível!
 
-### Definindo o cronograma diário
+### Cronograma diário
 
 <p align="center">
   <img width="80%" src="./assets/cronograma-semanal.png">
 </p>
 
-Agora você deve planejar suas tarefas diárias para que você consiga estar preparado para todo o conteúdo que irá consumir durante a semana.
+Planejamento das minhas tarefas diárias para que consiga me preparar para consumir todo o conteúdo durante a semana.
 
-Aqui você pode seguir o modelo disponibilizado abaixo para criar seu próprio calendário de estudos, para que você consiga sempre se manter organizado e focado nos seus objetivos.
+Nele foram incluídos tarefas, material de mídia (artigos, posts, vídeos), conceitos e qualquer informação útil sobre o que estudar de forma organizada.
 
-Nesse modelo já deixamos preparados tudo o que você pode fazer para essa primeira semana de conteúdos do Bootcamp, você apenas precisará adaptar ao seu ritmo.
+Dica: foi utilizada a técnica de estudo de Pomodoro, a qual diz para ter pequenas pausas para descansar e assimilar o material estudado (pra casa 25 minutos de estudo, 5 minutos de descanso. Foi reservado também tempo para criação de conteúdos como posts no linkedin e publicação no meu GitHub.
 
-Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
-
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab. Após concluir o desafio, fazer um post no Linkedin sobre ele é uma boa forma de demonstrar seus esforços para evoluir na sua carreira para oportunidades futuras.
 
 ## :memo: Licença
 
@@ -79,5 +75,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Paulo Castro :wave:
+Feito com 💜 by <a href="https://www.linkedin.com/in/prenato84">Paulo Castro</a> :wave:
 
