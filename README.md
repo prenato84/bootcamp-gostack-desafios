@@ -68,7 +68,10 @@ Nele foram incluídos tarefas, material de mídia (artigos, posts, vídeos), con
 
 Exemplos de tarefas diárias:
 
-![alt-text-1](./assets/tarefa-diaria-1.jpg "Tarefas") ![alt-text-2](./assets/tarefa-diaria-2.jpg "Tarefas")
+<p align="center">
+  <img src="./assets/tarefa-diaria-1.jpg" width="50%" />
+  <img src="./assets/tarefa-diaria-2.jpg" width="50%" /> 
+</p>
 
 Dica: foi utilizada a técnica de estudo de Pomodoro, a qual diz para ter pequenas pausas para descansar e assimilar o material estudado (pra casa 25 minutos de estudo, 5 minutos de descanso. Foi reservado também tempo para criação de conteúdos como posts no linkedin e publicação no meu GitHub.
 
