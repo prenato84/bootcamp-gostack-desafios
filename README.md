@@ -30,6 +30,11 @@ Desafio 2 da GoStack 11
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :man_technologist: Repositório GitHub com o desafio entregue
+
+**[Repo Desafio 02](https://github.com/prenato84/conceitos-nodejs)**
+
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
