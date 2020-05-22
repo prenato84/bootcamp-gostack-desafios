@@ -1,4 +1,5 @@
 # bootcamp-gostack-desafios
+
 Desafios da GoStack 11
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
@@ -23,15 +24,12 @@ Desafios da GoStack 11
   </a>
 </p>
 
-
 ## :rocket: Lista de desafios
 
 📄 **[Desafio 1: Planejando meus estudos](https://github.com/prenato84/bootcamp-gostack-desafios/tree/desafio-1)**
 <br>
-📄 **[Desafio 2: Desafio 02: Conceitos do Node.js](#)**
-
+📄 **[Desafio 2: Conceitos do Node.js](https://github.com/prenato84/bootcamp-gostack-desafios/tree/desafio-2)**
 
 <br><br>
 
 Feito com 💜 by <a href="https://www.linkedin.com/in/prenato84">Paulo Castro</a> :wave:
-
