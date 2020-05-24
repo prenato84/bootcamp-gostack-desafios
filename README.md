@@ -26,7 +26,7 @@ Desafios da GoStack 11
 
 ## :rocket: Lista de desafios
 
-📄 **[Desafio 1: Planejando meus estudos](https://github.com/prenato84/bootcamp-gostack-desafios/tree/desafio-1)**
+📄 **[Desafio 1: Planejando meus Estudos](https://github.com/prenato84/bootcamp-gostack-desafios/tree/desafio-1)**
 <br>
 📄 **[Desafio 2: Conceitos do Node.js](https://github.com/prenato84/conceitos-nodejs)**
 <br>
