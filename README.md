@@ -33,6 +33,8 @@ Desafios da GoStack 11
 📄 **[Desafio 3: Conceitos do ReactJS](https://github.com/prenato84/conceitos-reactjs)**
 <br>
 📄 **[Desafio 4: Conceitos do React Native](https://github.com/prenato84/conceitos-react-native)**
+<br>
+📄 **[Desafio 5: Fundamentos do Node.js](https://github.com/prenato84/fundamentos-nodejs)**
 
 <br><br>
 
