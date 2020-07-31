@@ -39,6 +39,8 @@ Desafios da GoStack 11
 📄 **[Desafio 6: Database Upload](https://github.com/prenato84/database-upload)**
 <br>
 📄 **[Desafio 7: Fundamentos ReactJS](https://github.com/prenato84/fundamentos-reactjs)**
+<br>
+📄 **[Desafio 8: Fundamentos React Native](https://github.com/prenato84/fundamentos-react-native)**
 
 <br><br>
 
